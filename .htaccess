@@ -1,0 +1,72 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page19127959.html
+
+RewriteEngine On
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^homeseries$ page19544847.html [NC]
+RewriteRule ^homeseries/$ page19544847.html [NC]
+
+RewriteRule ^catalogru$ page19701777.html [NC]
+RewriteRule ^catalogru/$ page19701777.html [NC]
+
+RewriteRule ^supported$ page19696138.html [NC]
+RewriteRule ^supported/$ page19696138.html [NC]
+
+RewriteRule ^businessesru$ page19696139.html [NC]
+RewriteRule ^businessesru/$ page19696139.html [NC]
+
+RewriteRule ^fleetru$ page19696820.html [NC]
+RewriteRule ^fleetru/$ page19696820.html [NC]
+
+RewriteRule ^app2$ page20536906.html [NC]
+RewriteRule ^app2/$ page20536906.html [NC]
+
+RewriteRule ^orderformru$ page19696513.html [NC]
+RewriteRule ^orderformru/$ page19696513.html [NC]
+
+RewriteRule ^forbusinessesru$ page20492083.html [NC]
+RewriteRule ^forbusinessesru/$ page20492083.html [NC]
+
+RewriteRule ^header$ page20745223.html [NC]
+RewriteRule ^header/$ page20745223.html [NC]
+
+RewriteRule ^app$ page20745901.html [NC]
+RewriteRule ^app/$ page20745901.html [NC]
+
+RewriteRule ^footer$ page20748681.html [NC]
+RewriteRule ^footer/$ page20748681.html [NC]
+
+RewriteRule ^politics$ page20951719.html [NC]
+RewriteRule ^politics/$ page20951719.html [NC]
+
+RewriteRule ^support$ page21353812.html [NC]
+RewriteRule ^support/$ page21353812.html [NC]
+
+RewriteRule ^delivery$ page21354075.html [NC]
+RewriteRule ^delivery/$ page21354075.html [NC]
+
+RewriteRule ^thank-you$ page21372817.html [NC]
+RewriteRule ^thank-you/$ page21372817.html [NC]
+
+RewriteRule ^bussinesac$ page22915926.html [NC]
+RewriteRule ^bussinesac/$ page22915926.html [NC]
+
+RewriteRule ^bussinesdc$ page22916595.html [NC]
+RewriteRule ^bussinesdc/$ page22916595.html [NC]
+
+RewriteRule ^bussinesg$ page23030805.html [NC]
+RewriteRule ^bussinesg/$ page23030805.html [NC]
+
+RewriteRule ^privacy$ page23257354.html [NC]
+RewriteRule ^privacy/$ page23257354.html [NC]
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild6433-6132-4266-b666-636139313838/favicon_3.ico [R=302,L]
+

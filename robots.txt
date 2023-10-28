@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /page20745223.html
+Disallow: /header
+Disallow: /page20748681.html
+Disallow: /footer
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://xtronik.ru/sitemap.xml
+Sitemap: https://xtronik.ru/sitemap-store.xml
+Host: https://xtronik.ru
+/* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin *//* powered by Madakimov Akmalidin */
